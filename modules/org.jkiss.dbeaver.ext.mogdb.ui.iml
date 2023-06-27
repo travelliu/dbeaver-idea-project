@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui/target/classes" />
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb.ui/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql.ui/target" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb.ui">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb.ui/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb.ui/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
@@ -14,10 +14,12 @@
     <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.mogdb" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.ui.locks" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql.ui" />
   </component>
 </module>

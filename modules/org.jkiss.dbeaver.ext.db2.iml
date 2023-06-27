@@ -8,11 +8,10 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.db2/target" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
-    <orderEntry type="module" module-name="com.dbeaver.model.sql.plan" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />

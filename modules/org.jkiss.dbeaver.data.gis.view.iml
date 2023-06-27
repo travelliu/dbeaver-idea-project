@@ -12,10 +12,9 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" />
-    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
-    <orderEntry type="library" name="SDK GIS" level="project" />
   </component>
 </module>

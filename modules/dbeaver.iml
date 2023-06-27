@@ -50,10 +50,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../java/eclipse-2019-12/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar!/" />
+          <root url="jar:///Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

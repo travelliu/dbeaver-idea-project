@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
-    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/target/classes" />
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/tests" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/target" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mogdb/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" exported="" />
-    <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
-    <orderEntry type="library" name="SDK GIS" level="project" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
   </component>
 </module>

@@ -8,10 +8,9 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.charts/target" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
-    <orderEntry type="library" name="SDK JFreeChart" level="project" />
   </component>
 </module>
