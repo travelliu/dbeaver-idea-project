@@ -1,10 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Debug DBeaver Community" type="Application" factoryName="Application">
-    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <option name="MAIN_CLASS_NAME" value="org.eclipse.equinox.launcher.Main" />
     <module name="dbeaver" />
-    <option name="PROGRAM_PARAMETERS" value="-XstartOnFirstThread -launcher /Applications/Eclipse -name DBeaver -product org.jkiss.dbeaver.ui.app.standalone.product -configuration file:$PROJECT_DIR$/../dbeaver-workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/ -dev file:$PROJECT_DIR$/../dbeaver-workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/dev.properties -os macosx -ws cocoa -arch x86_64 -nl en -showsplash -vmargs -Xmx1024M -Ddbeaver.trace.enabled=true" />
+    <option name="PROGRAM_PARAMETERS" value="-XstartOnFirstThread -launcher /Applications/Eclipse -name DBeaver -product org.jkiss.dbeaver.ui.app.standalone.product -configuration file:$PROJECT_DIR$/../dbeaver-workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/ -dev file:$PROJECT_DIR$/../dbeaver-workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/dev.properties -os macosx -ws cocoa -arch x86_64 -nl en -showsplash -consoleLog -vmargs -Xmx1024M -Ddbeaver.trace.enabled=true" />
     <option name="VM_PARAMETERS" value="-XstartOnFirstThread" />
     <method v="2">
       <option name="Make" enabled="true" />
